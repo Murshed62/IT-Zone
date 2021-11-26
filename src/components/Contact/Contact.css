@@ -1,0 +1,14 @@
+.input-container{
+  width: 60%;
+  margin-left: 100px;
+  
+}
+.send-btn{
+  background-color: rgb(10, 83, 241);
+  color: #fff;
+  margin-bottom: 160px;
+  margin-left: 100px;
+  padding: 5px 35px;
+  border: 1px solid black;
+  border-radius: 8px;
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "img": "https://img-for-assignment.netlify.app/images/Full-Stack-Developer.jpg",
+    "name": "Full stack web development",
+    "lesson": "360",
+    "duration": "6 month",
+    "fee": 5500
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/img_05.jpg",
+    "name": "React JS",
+    "lesson": "160",
+    "duration": "3 month",
+    "fee": 5000
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/1_YQgaKfVzK-YpxyT3NYqJAg.png",
+    "name": "JavaScript",
+    "lesson": "130",
+    "duration": "3 month",
+    "fee": 4500
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/PHP-course-in-Delhi.jpg",
+    "name": "PHP",
+    "lesson": "140",
+    "duration": "4 month",
+    "fee": 5000
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/Udemy-Advance-Python-Learning-Courses.png",
+    "name": "Python",
+    "lesson": "145",
+    "duration": "3 month",
+    "fee": 4000
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/img_02.jpg",
+    "name": "Wordpress development",
+    "lesson": "110",
+    "duration": "4 month",
+    "fee": 2500
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/img_05.jpg",
+    "name": "Web design",
+    "lesson": "120",
+    "duration": "4 month",
+    "fee": 3500
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/img_04.jpg",
+    "name": "SEO",
+    "lesson": "100",
+    "duration": "3 month",
+    "fee": 3500
+  },
+  {
+    "img": "https://img-for-assignment.netlify.app/images/Java-Course.jpg",
+    "name": "Java",
+    "lesson": "135",
+    "duration": "6 month",
+    "fee": 4500
+  }
+]
